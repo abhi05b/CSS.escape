@@ -1,0 +1,15 @@
+{
+	"name": "css-escape",
+	"version": "1.5.1",
+	"main": "css.escape.js",
+	"ignore": [
+		".travis.yml",
+		"LICENCE-MIT",
+		"scripts",
+		"tests",
+		".*",
+		"Gruntfile.js",
+		"node_modules",
+		"package.json"
+	]
+}
